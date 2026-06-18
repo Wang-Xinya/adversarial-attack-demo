@@ -11,6 +11,8 @@
   - **单张攻击**：随机加载测试图像，调节参数，显示原始图像、扰动放大图、对抗样本及预测置信度
   - **批量评估**：自动遍历 7 个扰动半径（ε），对比防御前后鲁棒准确率曲线及防御增益
 
+<img src="./results/PGD_attack_examples.png" alt="PGD_attack_examples.png" title="PGD_attack_examples.png" width="400">
+
 ## 2. 依赖环境
 
 - Python 3.8+
